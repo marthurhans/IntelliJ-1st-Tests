@@ -7,5 +7,7 @@ public class Main {
         for (int i = 0; i < 3; i++) {
             System.out.println("Version 2");
         }
+
+        System.out.println("alt 1");
     }
 }
